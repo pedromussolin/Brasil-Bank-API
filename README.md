@@ -1,4 +1,4 @@
-# Projeto de Coleta e Processamento de Dados com Python
+# Projeto CoderHouse
 
 Este projeto utiliza Jupyter Notebooks para coletar e processar dados de estados, municípios e bancos no Brasil, a partir de APIs públicas, e envia alertas para notificar o sucesso ou falha nas operações.
 
