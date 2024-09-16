@@ -28,4 +28,8 @@ Instale as dependências usando o `pip`:
 - /venv/Scripts/activate - Utilize o comando para ativar seu ambiente virtual
 
 ```bash
+pip install pandas
+pip install requests
+pip install plyer
+pip install sqlite3
 python -m pip install -r requirements.txt
