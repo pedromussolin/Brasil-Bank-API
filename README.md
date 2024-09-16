@@ -25,7 +25,7 @@ O código realiza as seguintes operações:
 
 Instale as dependências usando o `pip`:
 
+- /venv/Scripts/activate - Utilize o comando para ativar seu ambiente virtual
+
 ```bash
-pip install requests
-pip install pandas
-pip install plyer
+python -m pip install -r requirements.txt
